@@ -5,4 +5,7 @@
 </p>
 
 ### ①Model Of the Robot
+<p align="center">
+  <img src="pics/IMG_2404_AdobeExpress.gif" />
+</p>
 
