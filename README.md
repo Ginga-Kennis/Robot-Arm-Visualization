@@ -6,6 +6,6 @@
 
 ### ①Model Of the Robot
 <p align="center">
-  <img src="pics/IMG_2404_AdobeExpress.gif" />
+  <img src="pics/model.jpg" />
 </p>
 
