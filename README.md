@@ -14,3 +14,8 @@
   <img src="pics/Homogeneous.jpg" width="500" />
 </p>
 
+### ③How to calculate each Position
+<p align="center">
+  <img src="pics/Homogeneous.jpg" width="500" />
+</p>
+
