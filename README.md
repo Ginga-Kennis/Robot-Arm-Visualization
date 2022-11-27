@@ -1,4 +1,4 @@
 # Robot Arm Movement Visualization Using Matlab
-![Uploading github.gif…]()
+![alt text]()
 ### ①Model Of the Robot
 
