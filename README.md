@@ -14,7 +14,7 @@
   <img src="pics/Homogeneous.jpg" width="500" />
 </p>
 
-### ③How to calculate each Position
+### ③How to calculate each Position/Each Rotation Vecotr
 <p align="center">
   <img src="pics/position_rotation.jpg" width="400" />
 </p>
