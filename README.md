@@ -16,6 +16,6 @@
 
 ### ③How to calculate each Position
 <p align="center">
-  <img src="pics/Homogeneous.jpg" width="500" />
+  <img src="pics/position_rotation.jpg" width="400" />
 </p>
 
