@@ -26,7 +26,7 @@
 
 ### ⑤How to Calculate Trajectory
 <p align="center">
-  <img src="pics/inv_kinematics.png" width="400" />
+  <img src="pics/trajectory.jpg" width="400" />
 </p>
 
 
