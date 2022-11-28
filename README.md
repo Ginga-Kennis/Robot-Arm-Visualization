@@ -5,7 +5,7 @@
 </p>
 ## I created a animation of a robot arm moving to its input position!!
 
-###Mathematical parts↓↓↓
+### Mathematical parts↓↓↓
 ### ①Model Of the Robot
 <p align="center">
   <img src="pics/model.jpg" width="300" />
