@@ -21,7 +21,7 @@
 
 ### ④Inverse Kinematics Algorithm
 <p align="center">
-  <img src="pics/position_rotation.jpg" width="400" />
+  <img src="pics/inv_kinematics.png" width="400" />
 </p>
 
 
