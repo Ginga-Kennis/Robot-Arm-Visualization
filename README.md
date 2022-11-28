@@ -24,4 +24,9 @@
   <img src="pics/inv_kinematics.png" width="400" />
 </p>
 
+### ⑤How to Calculate Trajectory
+<p align="center">
+  <img src="pics/inv_kinematics.png" width="400" />
+</p>
+
 
