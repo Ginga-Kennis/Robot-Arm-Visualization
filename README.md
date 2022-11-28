@@ -3,7 +3,9 @@
 <p align="center">
   <img src="pics/IMG_2404_AdobeExpress.gif" />
 </p>
+## I created a animation of a robot arm moving to its input position!!
 
+###Mathematical parts↓↓↓
 ### ①Model Of the Robot
 <p align="center">
   <img src="pics/model.jpg" width="300" />
